@@ -10,3 +10,4 @@ create table filmes (
    produtora varchar(15)
   )
 ```
+> Além disso, para ver o projeto funcionando é necessário inserir seu usuário e senha do SQL Developer nas linhas 12 (usuário) e 13 (senha) da classe "Conexao.java". OBS: os dados presentes nestas linhas saão fictícios.
